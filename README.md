@@ -18,8 +18,8 @@ This project was created as part of a web development assessment given by [Compa
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (Flexbox, Media Queries, Transitions)
-- JavaScript (DOM Manipulation, Events)
+- CSS3 (Flexbox, Media Queries)
+- JavaScript
 - Visual Studio Code
 - Git & GitHub for version control
 
@@ -30,7 +30,7 @@ This project was created as part of a web development assessment given by [Compa
 You can view the live project or run it locally.
 
 ### ▶️ Live Demo
-[Click here to view the website](https://your-github-username.github.io/your-repo-name)
+[Click here to view the website](https://gokul1122003.github.io/CausalFunnel-2025/)
 
 ### 🧑‍💻 Run Locally
 1. Clone the repository:
